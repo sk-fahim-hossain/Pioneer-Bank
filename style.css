@@ -1,0 +1,32 @@
+.card-box {
+    border-radius: 10px;
+    box-shadow: 4px 5px 10px grey;
+    padding: 50px;
+    margin: 10px 20px;
+}
+
+.text-center {
+    margin-top: 80px
+}
+
+#transaction-area {
+    display: none;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+}
+
+.balance {
+    background-color: orange;
+}
+
+.status {
+    margin: 20px 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
